@@ -1,2 +1,7 @@
-.txt[md.md  
-](https://proxy-switchyomega.com/file/Proxy-SwitchyOmega-Chromium-2.5.15.crx)https://proxy-switchyomega.com/file/Proxy-SwitchyOmega-Chromium-2.5.15.crx
+saf
+
+https://proxy-switchyomega.com/file/Proxy-SwitchyOmega-Chromium-2.5.15.crx 
+
+在 Chrome 地址栏输入 chrome://extensions 打开扩展程序，拖动 .crx 后缀的 SwitchyOmega 安装文件到扩展程序中进行安装。
+
+https://github.com/yanue/V2rayU/releases
